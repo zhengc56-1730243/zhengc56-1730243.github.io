@@ -1,0 +1,31 @@
+body{
+	background-color: lightblue;
+}
+
+h2{
+	color:black;
+		font-size: 40px;
+		font-family: "Passion One";
+		text-align:center;
+}
+th{
+	color:red; 
+}
+
+legend{
+	font-weight: bold;
+	font-size: 24px;
+	text-align:center;
+	border: solid 4px black;
+}
+
+label{
+	font-weight:bold; 
+	font-style: italic;
+}
+
+
+textarea{
+	border: solid;
+}
+
